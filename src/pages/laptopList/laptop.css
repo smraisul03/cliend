@@ -1,0 +1,28 @@
+.userList {
+    flex: 4;
+    border: none;
+    border-radius: 20px;
+    background-color: #f4ffff;
+  }
+  
+  .userListUser {
+    border:none;
+    display: flex;
+    align-items: center;
+  }
+
+  
+  .laptopListEdit{
+      border: none;
+      border-radius: 10px;
+      padding: 5px 10px;
+      background-color: #e5faf2;
+      color: teal;
+      cursor: pointer;
+      margin-right: 20px;
+  }
+  
+  .laptopListDelete{
+      color: red;
+      cursor: pointer;
+  }
